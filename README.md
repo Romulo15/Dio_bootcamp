@@ -1,2 +1,3 @@
 # Dio_bootcamp
-Bootcamp Take Blit Web Developer
+Bootcamp 
+Diretório dedicado ao bootcamp Take Blit Web Developer
